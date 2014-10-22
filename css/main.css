@@ -1,0 +1,71 @@
+/*
+
+Colours
+---
+
+- button blue: #4197fb
+*/
+
+.close-bar {
+  background-color: grey;
+  font-family: ;
+  font-size: 1em;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+/*  font-weight: 300;*/
+  font-family: sans-serif;
+  padding: 5px;
+}
+
+.navigation-list {
+  background-color: #125425;
+  list-style: none;
+  display: inline-block;
+  width: 20%;
+}
+
+.navigation-menu {
+  background-color: pink;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 1em 0em;
+}
+
+.main-feature {
+  background-image: url(../images/main-feature-picture.png);
+  height: 800px;
+  margin-top: 0px;
+}
+
+.main-feature-call-to-action {
+  background-color: white;
+  margin-top: 0px;
+  padding: 25px 45px;
+  width: 280px;
+  position: relative;
+  top: 80px;
+  left: 80px; 
+  height: 230px;
+}
+
+.main-feature-button {
+  background-color: #4197fb;
+  text-decoration: none;
+  padding: 16px;
+  color: white;
+  border-radius: 5px;
+  display: block;
+  text-transform: uppercase;
+  text-align: center;
+  }
+
+.other-features-menu {
+  background-color: yellow;
+  border: green 5px solid;
+}
+
+.other-features-item {
+  display: inline-block;
+  padding: 0px;
+  width: 30%;
+}
